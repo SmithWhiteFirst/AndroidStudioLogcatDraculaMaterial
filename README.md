@@ -1,5 +1,4 @@
-# AndroidStudioLogcatDraculaMaterial
-Logcat Color Theme Dracula Material
+# Logcat Dracula Material
 
 Import Darcula Material.icls file by clicking the button next to theme name.
 
