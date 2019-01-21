@@ -1,9 +1,9 @@
 <scheme name="Darcula Material" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2019-01-21T11:01:47</property>
+    <property name="created">2019-01-21T11:23:16</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.3.0.20</property>
-    <property name="modified">2019-01-21T11:02:00</property>
+    <property name="modified">2019-01-21T11:23:31</property>
     <property name="originalScheme">Darcula Material</property>
   </metaInfo>
   <attributes>
@@ -24,7 +24,7 @@
     </option>
     <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="bbbbbb" />
+        <option name="FOREGROUND" value="4caf50" />
       </value>
     </option>
     <option name="LOGCAT_WARNING_OUTPUT">
